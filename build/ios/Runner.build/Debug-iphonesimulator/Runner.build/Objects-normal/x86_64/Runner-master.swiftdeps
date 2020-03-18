@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "d3ac151778e5bdf925ca48d059129208"
+build_time: [1584400554, 700979000]
+inputs:
+  "/Users/davidlozanoprieto/Desktop/MoneX/monex/ios/Runner/AppDelegate.swift": [1581426576, 0]
