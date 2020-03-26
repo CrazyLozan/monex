@@ -2,3 +2,6 @@ google-services.json
 GoogleService-Info.plist
 FIROptions.h
 GoogleService-Info.plist
+build/ios/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIROptions.h
+ios/Runner/GoogleService-Info.plist
+android/google-services.json
